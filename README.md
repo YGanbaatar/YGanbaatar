@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there, i'm Yan Ganbaatar👋
 
-**YGanbaatar/YGanbaatar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YGanbaatar/YGanbaata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
